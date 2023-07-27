@@ -1,4 +1,4 @@
-# <img src="https://github.com/RealRoti/bereal-predictor/assets/68821691/2ee58a72-a746-4e9c-8e9e-a751d58bcccd" width="50"> BeReal Algorithm Predictor ⚠
+# <img src="https://github.com/RealRoti/bereal-predictor/assets/68821691/2ee58a72-a746-4e9c-8e9e-a751d58bcccd" width="50"> BeReal Predictor Algorithm ⚠
 
 This script is a simple C++ program that predicts the next occurrence of a BeReal based on the provided event times. The program reads event times from specific files corresponding to different timezones and calculates the time difference between the current time and the last valid event time. The prediction considers events that occur between 9:00 AM and 11:59 PM.
 
