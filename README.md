@@ -89,7 +89,7 @@ In particular:
 - Difference of about six hours: 1.15% (1 time out of 87)
 - Difference of more than six hours: 0% (0 times out of 87)
 
-The results show that most of the estimates have a difference of about two hours, followed by differences of about three and four hours. In total, 
+The results show that most of the estimates have a difference of about two hours, followed by differences of about three and four hours.
 
 ## License
 
