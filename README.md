@@ -12,7 +12,6 @@ For testing purposes you can use the /data folder's file.
 
 🔜 We'll implement an API that will update the timings in real-time soon.
 
-
 ## Requirements
 
 - C++ compiler
@@ -74,6 +73,23 @@ The program reads event times from specific data files based on the selected tim
 Each data file contain event times in the format "YYYY-MM-DD HH:MM:SS" separated by newlines.
 
 ‼ *Note: the system time and the timezone selected have to match, unless the prediction won't be accurate.*
+
+## 📊 Efficiency studies
+*Last update 23/7/27*
+
+Correct estimates: 21 (out of a total of 87 estimates made).
+So **24%** of the estimates turned out to be correct compared to the actual time.
+In particular:
+
+- Difference of less than one hour: 3.45% (3 times out of 87)
+- Difference of about two hours: 8.05% (7 times out of 87)
+- Difference of about three hours: 4.60% (4 times out of 87)
+- Difference of about four hours: 4.60% (4 times out of 87)
+- Difference of about five hours: 2.30% (2 times out of 87)
+- Difference of about six hours: 1.15% (1 time out of 87)
+- Difference of more than six hours: 0% (0 times out of 87)
+
+The results show that most of the estimates have a difference of about two hours, followed by differences of about three and four hours. In total, 
 
 ## License
 
