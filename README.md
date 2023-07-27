@@ -77,17 +77,17 @@ Each data file contain event times in the format "YYYY-MM-DD HH:MM:SS" separated
 ## 📊 Efficiency studies
 *Last update 23/7/27*
 
-Correct estimates: 21 (out of a total of 87 estimates made).
-So **24%** of the estimates turned out to be correct compared to the actual time.
+Correct estimates: `21` (out of a total of 87 estimates made).
+So `24%` of the estimates turned out to be correct compared to the actual time.
 In particular:
 
-- Difference of less than one hour: 3.45% (3 times out of 87)
-- Difference of about two hours: 8.05% (7 times out of 87)
-- Difference of about three hours: 4.60% (4 times out of 87)
-- Difference of about four hours: 4.60% (4 times out of 87)
-- Difference of about five hours: 2.30% (2 times out of 87)
-- Difference of about six hours: 1.15% (1 time out of 87)
-- Difference of more than six hours: 0% (0 times out of 87)
+- Difference of less than one hour: `3.45%` (`3` times out of 87)
+- Difference of about two hours: `8.05%` (`7` times out of 87)
+- Difference of about three hours: `4.60%` (`4` times out of 87)
+- Difference of about four hours: `4.60%` (`4` times out of 87)
+- Difference of about five hours: `2.30%` (`2` times out of 87)
+- Difference of about six hours: `1.15%` (`1` time out of 87)
+- Difference of more than six hours: `0%` (`0` times out of 87)
 
 The results show that most of the estimates have a difference of about two hours, followed by differences of about three and four hours.
 
